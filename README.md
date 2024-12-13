@@ -34,6 +34,8 @@ Chaque modèle a été évalué pour sa capacité à prédire avec précision le
 
 Les modèles ont été évalués à l'aide de plusieurs métriques, y compris l'AUC, la précision, le rappel et le F1-score.
 Tous les modèles utilisés avaient des performances similaires mais Gradient Boosting et Random Forest se demarquaient avec AUC = 0.6 et Accurancy = 0.94.
+Tous les modèles classifiaient assez mal, la survenance d'un sinistre pour le modèle donnant les résultats les plus optimistre, Random Forest, l'on avait 
+Precision : 0.08 et Recall : 0.52.
 
 ## Contributeurs
 
