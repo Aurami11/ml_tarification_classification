@@ -37,6 +37,7 @@ Tous les modèles utilisés avaient des performances similaires mais Gradient Bo
 Tous les modèles classifiaient assez mal, la survenance d'un sinistre pour le modèle donnant les résultats les plus optimistre, Random Forest, l'on avait 
 Precision : 0.08 et Recall : 0.52.
 
+Ainsi dans une optique de tarification, il serait peut etre meilleur de faire de la mutualisation de risque pour revenir à un modèle deterministe.
 ## Contributeurs
 
 - Jules D'ALMEIDA
