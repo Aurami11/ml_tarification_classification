@@ -10,6 +10,7 @@ Ce projet vise à développer un modèle de tarification pour prédire le risque
 - **Gradient Boosting**
 - **Random Forest**
 - **XGBoost**
+- **HistGradientBoosting**
 
 Chaque modèle a été évalué pour sa capacité à prédire avec précision les risques de sinistre associés à chaque client.
 
