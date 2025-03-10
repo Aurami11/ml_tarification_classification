@@ -65,9 +65,9 @@ Les modèles de classification testés sont les suivants : **Gradient Boosting**
 
 Les **importances des caractéristiques** (feature importances) du modèle **Random Forest** montrent que certaines variables sont particulièrement significatives pour prédire la survenance de sinistres :
 
-- **La taille de la souscription de la police d'assurance** : Plus le montant de la souscription est élevé, plus le risque d'un sinistre est important.
-- **L'âge du véhicule** : Les véhicules plus anciens présentent un risque plus élevé.
-- **L'âge de l'assuré** : Les assurés plus jeunes ou plus âgés peuvent présenter un risque plus élevé.
+- **La taille de la souscription de la police d'assurance** : Plus la taille de la souscription est grande, plus le risque d'un sinistre est important.
+- **L'âge du véhicule** : Les véhicules plus anciens présentent étonnament un risque plus faible.
+- **L'âge de l'assuré** : Les assurés plus âgés présentent un risque légerement.
 
 Ces résultats ouvrent la voie à des analyses plus approfondies, par exemple via des courbes de **Partial Dependence** (PD) pour mieux comprendre l'impact de chaque caractéristique.
 
